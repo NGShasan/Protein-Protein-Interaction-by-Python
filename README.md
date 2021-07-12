@@ -3,7 +3,7 @@
 We used networkx for analysing the interaction between Inferred Links of high-throughput protein-protein interactions. 
 
 NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-The more details about networkx can can be found here,https://networkx.github.io/documentation/stable/index.html.
+Details about networkx can can be found here, https://networkx.github.io/documentation/stable/index.html.
 
 ### Dataset:
 https://www.inetbio.org/wormnet/downloadnetwork.php
